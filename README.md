@@ -1,2 +1,2 @@
 # usefultools
-some frequently used tools, like reading movie files or images from hard disks, just for convenience.
+some frequently used tools, like loading videos or reading images from the hard disk, just for convenience.
